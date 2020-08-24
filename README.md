@@ -12,7 +12,7 @@ The book is separated into notebooks. Each notebook represents a book’s chapte
 
 * A small description of what was discussed in the chapter.
 * Implementation of Algorithms and Data Structures which I deemed most important, from scratch. Some of them are very similar to the ones in the book, but with several simplifications. Others are based just on the simple description provided in the book. 
-* Reinforcement, Creativity, and Project sections. These are the exercises at the end of each book’s chapter. A full description of solved tasks is provided. 
+* Solutions for Reinforcement, Creativity, and Project sections. These are the exercises at the end of each book’s chapter. A full description of solved tasks is provided. 
 
 The only missing chapters are the 3rd and the 15th ones. The 3rd chapter is on proofs of time complexity, and writing it in the LaTex in the notebook would take me ages. In the 15th chapter, I honestly didn’t find any interesting exercises or algorithms.
 
